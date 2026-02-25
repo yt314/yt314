@@ -1,11 +1,11 @@
-# 👩‍💻 Yehudit Pollock  
+# Yehudit Pollock  
 Software Engineering Student | Full Stack Developer  
 
-Designing scalable web systems with clean architecture.
+Designing scalable web systems with clean architecture and modern web technologies.
 
 —
 
-Open to Junior roles.  
+Open to Junior Developer roles  
 
 C# • ASP.NET Core • Spring • Django  
 Angular • React  
