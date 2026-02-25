@@ -1,103 +1,47 @@
 # 👩‍💻 Yehudit Pollock  
 ### Software Engineering Student | Full Stack Developer  
-Focused on scalable RESTful systems & clean architecture  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend-Oriented+Builder;REST+Architecture+Enthusiast;Clean+Code+Advocate&center=true&width=600&height=45">
-</p>
-
----
-
-## 🚀 Professional Summary
-
-High-achieving Software Engineering student (Avg 97) with strong analytical thinking and fast independent learning ability.  
-
-Experienced in building full-stack web applications using layered architecture, RESTful APIs, and modern frontend frameworks.  
-
-I focus on writing clean, scalable, and maintainable systems — not just features.
+Building scalable web systems with a focus on clean architecture and RESTful design.
 
 ---
 
 ## 🎯 Open To Work
-
-Actively seeking a Junior Developer position (Backend / Full Stack).  
-Strong foundation in REST architecture, layered design, and scalable systems.  
-Available for immediate start.
+Seeking a Junior Backend / Full Stack Developer position.  
+Strong foundation in layered architecture and modern web technologies.
 
 ---
 
-## 🧠 Architecture & Development Approach
+## 🛠 Tech Stack
 
-✔️ Layered Architecture  
-✔️ RESTful API Design  
-✔️ Design Patterns  
-✔️ ORM-based Data Modeling  
-✔️ Role-Based Authorization  
-✔️ Clean Code Principles  
-✔️ Scalable System Planning  
+**Backend**  
+C#, ASP.NET Core, Entity Framework Core  
+Java (Spring), Python (Django), Node.js  
 
----
+**Frontend**  
+Angular, React, TypeScript  
 
-## 🛠️ Tech Stack
+**Databases**  
+SQL Server, MongoDB, SQLite  
 
-### 🔹 Backend
-C# | ASP.NET Core (.NET 9) | Entity Framework Core  
-Java (Spring) | Python (Django) | Node.js  
-REST APIs | OOP | C  
-
-### 🔹 Frontend
-Angular | React | TypeScript  
-JavaScript | HTML5 | CSS3  
-
-### 🔹 Databases
-SQL Server | MongoDB | SQLite  
-
-### 🔹 Dev & Cloud
-Git | GitHub | Docker | AWS  
-Postman | Swagger  
-
-### 🔹 Development Environments
-Linux | Windows  
-Visual Studio | VS Code | IntelliJ | PyCharm | Eclipse  
+**Tools & Cloud**  
+Git, Docker, AWS, Postman, Swagger  
 
 ---
 
 ## 📌 Selected Projects
 
-### 🎯 Lottery Management Platform  
+**🎯 Lottery Management System**  
 ASP.NET Core | Angular | SQL Server  
-• Layered architecture with REST API  
-• Business logic implemented server-side  
-• Angular client consuming REST services  
-• Structured database modeling  
+Layered architecture with REST API implementation.
 
----
-
-### 🛒 E-Commerce Platform  
+**🛒 E-Commerce Platform**  
 React | Node.js | MongoDB  
-• RESTful backend with NoSQL data modeling  
-• React Hooks & dynamic UI  
-• End-to-end commerce workflow  
+Full-stack application with REST backend and dynamic UI.
 
----
-
-### 📋 Team Task Management System  
+**📋 Task Management System**  
 Python | Django | SQLite  
-• Django ORM-based backend  
-• Role-based permission system  
-• Full CRUD management  
+Role-based authorization and ORM-based backend logic.
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yt314&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yt314&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contact
 
 📧 y556780305@gmail.com  
