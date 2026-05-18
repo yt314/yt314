@@ -1,15 +1,23 @@
-# Yehudit Pollock  
-Software Engineering Student | Full Stack Developer  
+# 👋 Hi, I'm Yehudit Pollock
 
-Designing scalable web systems with clean architecture and modern web technologies.
+Full Stack Developer | Software Engineering Student
 
-—
+🚀 Passionate about building scalable web applications with clean architecture and modern technologies.
 
-Open to Junior Developer roles  
+## 💻 Tech Stack
 
-C# • ASP.NET Core • Spring • Django  
-Angular • React  
-SQL Server • MongoDB  
-Docker • AWS  
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,react,java,spring,nodejs,mongodb,docker,aws,git)](https://skillicons.dev)
 
-y556780305@gmail.com
+---
+
+## 📌 Featured Projects
+
+🎯 Lottery Management System  
+🛒 E-Commerce Platform  
+🏢 Pest Control Portal  
+
+---
+
+## 📫 Contact
+
+📧 y556780305@gmail.com
