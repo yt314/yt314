@@ -6,8 +6,11 @@ Full Stack Developer | Software Engineering Student
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,react,java,spring,nodejs,mongodb,docker,aws,git)](https://skillicons.dev)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,java,spring,nodejs,mongodb,docker,aws,git&theme=light" />
+
+</div>
 ---
 
 ## 📌 Featured Projects
