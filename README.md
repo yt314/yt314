@@ -23,4 +23,4 @@ Full Stack Developer | Software Engineering Student
 
 ## 📫 Contact
 
-📧 y556780305@gmail.com
+📧 **Email** [y556780305@gmail.com](mailto:y556780305@gmail.com)
