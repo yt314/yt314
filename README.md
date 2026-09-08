@@ -61,12 +61,7 @@ Software Engineering student (GPA **97**) and Full Stack Developer, passionate a
 ## 🚀 Featured Projects
 
 🎓 **[Talmidon](https://github.com/yt314/Talmidon)** — `.NET 10` · `Angular 21` · `PostgreSQL` · `Multi-tenant SaaS`
-A multi-tenant platform for private tutors: scheduling with recurring lessons, per-lesson billing,
-pedagogical notes with per-role visibility, parent and student portals, and a public tutor library.
-Tenant isolation is enforced in three independent layers, and the integration suite runs the real
-API against a real PostgreSQL.
-
-[![Talmidon](https://raw.githubusercontent.com/yt314/Talmidon/main/docs/images/library.png)](https://github.com/yt314/Talmidon)
+A multi-tenant platform for private tutors — scheduling, per-lesson billing, parent and student portals — with tenant isolation enforced in three independent layers.
 
 🏗️ **[E-Commerce Microservices Architecture](https://github.com/yt314/ecommerce-microservices-architecture)** — `.NET 8` · `Docker` · `Microservices`
 A .NET 8 e-commerce system evolving from a monolith to production-style microservices with messaging, caching, an API gateway, BFF, and observability.
