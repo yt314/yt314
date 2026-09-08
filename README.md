@@ -32,7 +32,7 @@ Software Engineering student (GPA **97**) and Full Stack Developer, passionate a
 **Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20(Spring)-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -59,6 +59,14 @@ Software Engineering student (GPA **97**) and Full Stack Developer, passionate a
 ---
 
 ## 🚀 Featured Projects
+
+🎓 **[Talmidon](https://github.com/yt314/Talmidon)** — `.NET 10` · `Angular 21` · `PostgreSQL` · `Multi-tenant SaaS`
+A multi-tenant platform for private tutors: scheduling with recurring lessons, per-lesson billing,
+pedagogical notes with per-role visibility, parent and student portals, and a public tutor library.
+Tenant isolation is enforced in three independent layers, and the integration suite runs the real
+API against a real PostgreSQL.
+
+[![Talmidon](https://raw.githubusercontent.com/yt314/Talmidon/main/docs/images/library.png)](https://github.com/yt314/Talmidon)
 
 🏗️ **[E-Commerce Microservices Architecture](https://github.com/yt314/ecommerce-microservices-architecture)** — `.NET 8` · `Docker` · `Microservices`
 A .NET 8 e-commerce system evolving from a monolith to production-style microservices with messaging, caching, an API gateway, BFF, and observability.
