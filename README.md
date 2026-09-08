@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Yehudit Pollock</h1>
 
 <p align="center">
-  <b>Software Developer</b> · Software Engineering Student
+  <b>Software Developer</b> · Software Engineering
 </p>
 
 <p align="center">
