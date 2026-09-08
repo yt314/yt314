@@ -63,20 +63,20 @@ Software Engineering student (GPA **97**) and Full Stack Developer, passionate a
 🎓 **[Talmidon](https://github.com/yt314/Talmidon)** — `.NET 10` · `Angular 21` · `PostgreSQL` · `Multi-tenant SaaS`
 A multi-tenant platform for private tutors — scheduling, per-lesson billing, parent and student portals — with tenant isolation enforced in three independent layers.
 
+🗂️ **[File Browser Agent](https://github.com/yt314/file-browser-agent-skills)** — `Electron` · `React 19` · `TypeScript` · `Gemini`
+A desktop file browser with an agent chat panel, and a working implementation of **Agent Skills** — runtime-loaded `SKILL.md` folders, disclosed to the model as an ordinary tool call.
+
+📓 **[NotebookLM (in miniature)](https://github.com/yt314/notebooklm-langchain-studio)** — `LangChain v1` · `LangGraph` · `FastAPI`
+A grounded research assistant: web research, semantic retrieval, and answers with citations — plus checkpointed TED-talk and podcast pipelines with human approval before audio is rendered.
+
 🏗️ **[E-Commerce Microservices Architecture](https://github.com/yt314/ecommerce-microservices-architecture)** — `.NET 8` · `Docker` · `Microservices`
 A .NET 8 e-commerce system evolving from a monolith to production-style microservices with messaging, caching, an API gateway, BFF, and observability.
 
-🎁 **[Gift Raffle Platform](https://github.com/yt314/gift-raffle-platform)** — `Angular` · `ASP.NET Core` · `EF Core` · `JWT`
-A full-stack raffle platform for managing gifts, categories, donors and ticket purchases, with email notifications for winners.
-
-🛒 **[Online Store Platform](https://github.com/yt314/online-store-platform)** — `React` · `Node.js` · `MongoDB`
-A full MERN online store with authentication, product management and a shopping cart.
+🌦️ **[Weather MCP Server](https://github.com/yt314/weather-mcp-playwright)** — `MCP` · `Python` · `Playwright`
+An MCP server and client for weather forecasts, with a terminal chat host and desktop client integration — Playwright-scraped where no public API exists.
 
 🧠 **[RAG with LlamaIndex](https://github.com/yt314/rag-llamaindex-project)** — `Python` · `LlamaIndex` · `Cohere` · `Pinecone`
 A RAG pipeline with a Gradio app for Q&A, structured JSON extraction, and smart routing.
-
-⚡ **[Say & Run](https://github.com/yt314/say-and-run)** — `Python` · `AI Agent`
-An AI agent that converts natural language into executable terminal commands.
 
 ---
 
